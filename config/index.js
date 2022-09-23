@@ -65,7 +65,7 @@ wx114a874ed4ab949c",
       // 扫码关注你的微信测试号后生成的一段字符串，在测试号后台能看到
       id: "onSnX5vDV4tJwpMO4FDGK47srswY",
       // 你想对他发送的模板消息的模板ID
-      useTemplateId: "quqaysiqVYeRRTfrnnVJSFkd97D-un1KV5dgVgA9vIw",
+      useTemplateId: "	jTyKb5L1jJPz9O5jJiMdNSnF6MwD-Zmr7kaB5QuL0uo",
       // 所在省份
       province: "广东",
       // 所在城市
